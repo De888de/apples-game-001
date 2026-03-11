@@ -1,2 +1,2 @@
-# apples-game-001
+# Tetris-5-colors
 My first project for experimentation
